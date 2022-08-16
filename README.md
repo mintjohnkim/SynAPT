@@ -1,6 +1,6 @@
 # SynAPT
 
-This repository contains instructions needed to recreate Synthetic Action Pre-training and Transfer (SynAPT) benchmark detailed in the paper *How Transferable are Video Representations Based on Synthetic Data?*
+This repository contains instructions needed to recreate the synthetic dataset for Synthetic Action Pre-training and Transfer (SynAPT) benchmark detailed in the paper *How Transferable are Video Representations Based on Synthetic Data?*
 
 
 ## Download Assets 
@@ -15,7 +15,7 @@ Note that it is possible to download the synthetic video rendering simulators fo
 ## Convert Frames/Videos
 
 For consistency, you can either:
-- Extract the frames from Eldersim and SURREACT videos, and place each group of frames under a folder named after the original video name. 
+- Extract the frames from Eldersim and SURREACT videos, and place each group of frames under a folder named after the original video name.  
 - Render frames of PHAV video into a video (e.g. mp4), and name the video output file after the original folder name. 
 
 
@@ -56,7 +56,7 @@ Place the downloaded assets in the following format:
 
 ## Create SynAPT
 
-Run `createSynAPT.py` to create SynAPT. SynAPT will be created in the root directory under `SynAPT_videos`.
+Run `createSynAPT.py` to create the synthetic dataset. The dataset will be created in the root directory under `SynAPT_videos`.
 
 
 ## More Information
