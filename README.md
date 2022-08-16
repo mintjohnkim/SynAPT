@@ -61,6 +61,7 @@ Run `createSynAPT.py` to create the synthetic dataset. The dataset will be creat
 
 ## More Information
 - You can find the 150 synthetic classes of SynAPT in `syn_labels.txt`. 
+- You can find the 150 Kinetics classes used for comparison in `kinetics_labels.txt`, and the exact examples in `kinetics_total.txt`.
 - For our experiments with the various model architectures (TSN, I3D, R(2+1)), we used the IBM/action-recognition-pytorch GitHub repository (https://github.com/IBM/action-recognition-pytorch). 
 
 
