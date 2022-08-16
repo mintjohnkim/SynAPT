@@ -6,7 +6,6 @@ import json
 import csv
 import random
 import shutil
-from tqdm import tqdm
 from operator import itemgetter
 
 
