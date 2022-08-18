@@ -64,7 +64,7 @@ Run `createSynAPT.py` to create the synthetic dataset. The dataset will be creat
 - You can find the 150 Kinetics classes used for comparison in `kinetics_labels.txt`, and the exact examples in `kinetics_total.txt`.
 - For our experiments with the various model architectures (TSN, I3D, R(2+1)), we used the IBM/action-recognition-pytorch GitHub repository (https://github.com/IBM/action-recognition-pytorch). 
 - To further clarify the SynAPT, we answered a set of questions listed on the *Datasheets for Datasets (Gebru et al., https://arxiv.org/pdf/1803.09010.pdf)*. Refer to `DataSheet.pdf`.
-
+- Train/val splits used in the paper for Kinetics 150-class subset and the synthetic dataset can be found in `kinetics150_train.txt`, `kinetics150_val.txt`, `sim150_train.txt`, and `sim150_val.txt`.
 
 
 
