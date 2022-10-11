@@ -9,7 +9,8 @@ Visit the following links and download the three synthetic video datasets.
 - PHAV: http://adas.cvc.uab.es/phav/
 - SURREACT: https://github.com/gulvarol/surreact
 
-Note that it is possible to download the synthetic video rendering simulators for Eldersim and SURREACT, but it is sufficient to download SynADL for Eldersim and pre-rendered NTU and UESTC videos for SURREACT. Also, we only utilize the RGB data from Eldersim and SURREACT. 
+Note that it is possible to download the synthetic video rendering simulators for Eldersim and SURREACT, but it is sufficient to download SynADL for Eldersim and pre-rendered NTU and UESTC videos for SURREACT. Also, we only utilize the RGB data from Eldersim and SURREACT.
+To download SynADL, sign the EULA and send a copy to the email address which can be found under the section Contact.
 
 
 ## Convert Frames/Videos
