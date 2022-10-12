@@ -59,6 +59,10 @@ Place the downloaded assets in the following format:
 
 Run `createSynAPT.py` to create the synthetic dataset. The dataset will be created in the root directory under `SynAPT_videos`.
 
+## Pre-trained Weights 
+
+TSN, I3D, and R(2+1)D models pretrained on the Synthetic data and Kinetics subset can be found here:
+https://drive.google.com/drive/folders/1hAdtrwrSTKDlb0xBmDlMvawwqaiSnv6m?usp=sharing
 
 ## More Information
 - You can find the 150 synthetic classes of SynAPT in `syn_labels.txt`. 
